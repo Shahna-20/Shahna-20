@@ -54,7 +54,7 @@ I enjoy contributing to real-world projects, learning new technologies, and coll
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/shahna-ak-305aba351/)  
-- [Portfolio Website](https://your-portfolio-link.com)  
+- [Portfolio Website](https://portfolio-3p1r.vercel.app/)  
 - 📧 shahnaak123@gmail.com  
 
 ---
